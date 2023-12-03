@@ -1,0 +1,20 @@
+Namespace(input='PROTEINS', model='Neural', runs=10, epochs=1000, seed=42, lr=0.001, weight_decay=0, num_hid=128, dropout=0.0, path='./results_graph_cls/', num_layers=3, max_iter=50, threshold=1e-06, mu=4)
+---------fold_idx: 0-------------
+Epoch: 001, Train Loss: 0.6458507, Train Acc: 0.5924076, Test Acc: 0.6250000, Train_Time: 1.35016
+Epoch: 002, Train Loss: 0.6319908, Train Acc: 0.6973027, Test Acc: 0.7500000, Train_Time: 0.57634
+Epoch: 003, Train Loss: 0.6155238, Train Acc: 0.7192807, Test Acc: 0.8035714, Train_Time: 0.58744
+Epoch: 004, Train Loss: 0.6276737, Train Acc: 0.6353646, Test Acc: 0.6071429, Train_Time: 0.59028
+Epoch: 005, Train Loss: 0.6094599, Train Acc: 0.7562438, Test Acc: 0.7232143, Train_Time: 0.59491
+Epoch: 006, Train Loss: 0.5900677, Train Acc: 0.7532468, Test Acc: 0.8035714, Train_Time: 0.59419
+Epoch: 007, Train Loss: 0.5900273, Train Acc: 0.7472527, Test Acc: 0.7857143, Train_Time: 0.59477
+Epoch: 008, Train Loss: 0.6285824, Train Acc: 0.7582418, Test Acc: 0.7500000, Train_Time: 0.59245
+Epoch: 009, Train Loss: 0.5917008, Train Acc: 0.7422577, Test Acc: 0.7589286, Train_Time: 0.57298
+Epoch: 010, Train Loss: 0.5782559, Train Acc: 0.7302697, Test Acc: 0.7857143, Train_Time: 0.59369
+Epoch: 011, Train Loss: 0.6013113, Train Acc: 0.7622378, Test Acc: 0.7410714, Train_Time: 0.58507
+Epoch: 012, Train Loss: 0.5855629, Train Acc: 0.7442557, Test Acc: 0.7678571, Train_Time: 0.59481
+Epoch: 013, Train Loss: 0.5773217, Train Acc: 0.7592408, Test Acc: 0.7767857, Train_Time: 0.58693
+Epoch: 014, Train Loss: 0.5933400, Train Acc: 0.7682318, Test Acc: 0.7500000, Train_Time: 0.58374
+Epoch: 015, Train Loss: 0.5749532, Train Acc: 0.7682318, Test Acc: 0.7500000, Train_Time: 0.59209
+Epoch: 016, Train Loss: 0.5800929, Train Acc: 0.7702298, Test Acc: 0.7767857, Train_Time: 0.58504
+Epoch: 017, Train Loss: 0.5707479, Train Acc: 0.7692308, Test Acc: 0.7767857, Train_Time: 0.58959
+Epoch: 018, Train Loss: 0.5679484, Train Acc: 0.7692308, Test Acc: 0.7767857, Train_Time: 0.58599

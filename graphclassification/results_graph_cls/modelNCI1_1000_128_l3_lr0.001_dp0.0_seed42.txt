@@ -1,0 +1,7 @@
+Namespace(input='NCI1', model='Neural', runs=10, epochs=1000, seed=42, lr=0.001, weight_decay=0, num_hid=128, dropout=0.0, path='./results_graph_cls/', num_layers=3, max_iter=50, threshold=1e-06, mu=4)
+---------fold_idx: 0-------------
+Epoch: 001, Train Loss: 0.6777617, Train Acc: 0.5433901, Test Acc: 0.5547445, Train_Time: 2.62127
+Epoch: 002, Train Loss: 0.6675147, Train Acc: 0.5720465, Test Acc: 0.5742092, Train_Time: 1.84409
+Epoch: 003, Train Loss: 0.6591623, Train Acc: 0.6296296, Test Acc: 0.6642336, Train_Time: 1.85105
+Epoch: 004, Train Loss: 0.6500789, Train Acc: 0.6477426, Test Acc: 0.6472019, Train_Time: 1.86524
+Epoch: 005, Train Loss: 0.6402991, Train Acc: 0.6536902, Test Acc: 0.6374696, Train_Time: 1.86737
