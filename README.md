@@ -35,7 +35,7 @@ python main.py --input MUTAG --model Neural --mu 1.25 --max_iter 20 --num_hid 12
 ```
 
 ## Citing
-If you find <img src="http://latex.codecogs.com/gif.latex?^p">*GNNs* useful in your research, please cite our paper:
+If you find *DIGNN* useful in your research, please cite our paper:
 ```
 @article{DBLP:journals/corr/abs-2308-03306,
   author       = {Guoji Fu and
