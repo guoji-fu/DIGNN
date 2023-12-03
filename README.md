@@ -1,7 +1,7 @@
 # DIGNNs
 
 # pGNNs
-This repository provides a reference implementation of **DIGNNs** as described in the paper "**[Implicit Graph Neural Diffusion Based on Constrained Dirichlet Energy Minimization](https://arxiv.org/pdf/2308.03306.pdf)**" which has been presented as *oral* at NeurIPS 2023 New Frontiers in Graph Learning Workshop.
+This repository provides a reference implementation of **DIGNN** as described in the paper "**[Implicit Graph Neural Diffusion Based on Constrained Dirichlet Energy Minimization](https://arxiv.org/pdf/2308.03306.pdf)**" which has been presented as **oral** at NeurIPS 2023 New Frontiers in Graph Learning Workshop.
 
 
 ## Requirements
@@ -10,7 +10,7 @@ This repository provides a reference implementation of **DIGNNs** as described i
 * Install [**PyTorch Geometric >= 1.7.0**](https://github.com/rusty1s/pytorch_geometric#installation)
 
 ## Run Experiments 
-We provides some examples for running experiments for different tasks on different datasets:
+We provide some examples for running experiments for different tasks on different datasets:
 ### Node classification 
 ```
 cd nodeclassification
