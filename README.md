@@ -1,6 +1,5 @@
 # DIGNNs
 
-# pGNNs
 This repository provides a reference implementation of **DIGNN** as described in the paper "**[Implicit Graph Neural Diffusion Based on Constrained Dirichlet Energy Minimization](https://arxiv.org/pdf/2308.03306.pdf)**" which has been presented at NeurIPS 2023 New Frontiers in Graph Learning Workshop.
 
 
